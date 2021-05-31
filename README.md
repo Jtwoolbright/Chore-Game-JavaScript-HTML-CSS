@@ -1,4 +1,4 @@
-# Chore-Game
+# Chore Game
 
 ## Try It!
 
